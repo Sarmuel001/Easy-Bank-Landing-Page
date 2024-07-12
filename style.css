@@ -189,3 +189,21 @@ header > a{
         opacity: 1;
     }
 }
+/* Section Two */
+section.section-two{
+    background-color: hsl(220, 16%, 96%);
+    display: flex;
+    flex-direction: column;
+    gap:3rem;
+}
+.boxes{
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(200px,1fr));
+}
+.box{
+    text-align: center;
+    padding: 1.5rem 2rem;
+}
+
+
+/* Section Two end */
