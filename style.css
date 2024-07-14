@@ -220,17 +220,8 @@ footer {
     text-align: center;
 }
 
-.footer-resources {
-    /* margin-left: 20px; */
-}
-
-.footer-resources-2 {
-    /* margin-right: 150px; */
-}
-
 .request-invite {
     text-align: right;
-    /* line-height: 50px; */
 }
 
 footer .request-invite button {
