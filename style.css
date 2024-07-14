@@ -162,20 +162,20 @@ header nav ul li a:hover::after{
 }
 
 .section-two .boxes .box{
-    width: 323px;
+    width: 250px;
     height: 300px;
     text-align: start;
     padding: 10px;
 }
 
 .section-two .boxes .box h3{
-    font-size: 25px;
+    font-size: 22px;
     font-weight: 400;
     margin-top: 3rem;
 }
 
 .section-two .boxes .box p{
-    font-size: 18px;
+    font-size: 16px;
     color: hsl(233, 8%, 62%);
     font-weight: 450;
     line-height: 1.5;
