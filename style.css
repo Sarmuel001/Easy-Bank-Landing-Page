@@ -107,16 +107,6 @@ header>a {
     font-weight: 500;
 }
 
-footer {
-    display: flex;
-    width: 100%;
-    justify-content: space-between;
-    align-items: center;
-    padding: 15px 8rem;
-    background-color: hsl(233, 26%, 24%);
-    position: relative;
-}
-
 #articles {
     background-color: hsl(var(--very-light-gray));
 
@@ -188,7 +178,7 @@ footer {
                     padding: 1.5rem;
 
                     .author {
-                        margin-bottom: 0.7rem;
+                        margin-bottom: 0.700rem;
                     }
 
                     p {
@@ -211,6 +201,16 @@ footer {
     }
 }
 
+footer {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 8rem;
+    background-color: hsl(233, 26%, 24%);
+    position: relative;
+}
+
 .footers {
     line-height: 40px;
 }
@@ -220,8 +220,17 @@ footer {
     text-align: center;
 }
 
+.footer-resources {
+    /* margin-left: 20px; */
+}
+
+.footer-resources-2 {
+    /* margin-right: 150px; */
+}
+
 .request-invite {
     text-align: right;
+    /* line-height: 50px; */
 }
 
 footer .request-invite button {
