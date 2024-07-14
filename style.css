@@ -167,7 +167,7 @@ header nav ul li a:hover::after {
                     padding: 1.5rem;
 
                     .author {
-                        margin-bottom: 0.7rem;
+                        margin-bottom: 0.700rem;
                     }
 
                     p {
@@ -251,6 +251,7 @@ footer {
 
 .request-invite {
   text-align: right;
+    /* line-height: 50px; */
   /* line-height: 50px; */
 }
 
